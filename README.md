@@ -1,2 +1,2 @@
 # lerning_git
-Learning git
+# Learning about git and GitHub
